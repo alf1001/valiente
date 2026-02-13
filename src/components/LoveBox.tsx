@@ -200,7 +200,7 @@ export default function LoveBox() {
           </h1>
 
           <p className="mb-6 text-gray-700 z-10">
-            Click all the chocolate!
+            Click one of the chocolate!
           </p>
 
           <img

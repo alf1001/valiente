@@ -15,14 +15,14 @@ export default function LoveBox() {
   const hearts = Array.from({ length: 25 })
 
   const photos = [
-  { src: "/assets/1.jpeg", date: "12 Jan 2025" },
-  { src: "/assets/2.jpeg", date: "05 Mar 2025" },
-  { src: "/assets/3.jpeg", date: "21 Apr 2025" },
-  { src: "/assets/4.jpeg", date: "18 Jun 2025" },
-  { src: "/assets/5.jpeg", date: "02 Aug 2025" },
-  { src: "/assets/6.jpeg", date: "14 Sep 2025" },
-  { src: "/assets/7.jpeg", date: "30 Oct 2025" },
-  { src: "/assets/8.jpeg", date: "25 Dec 2025" },
+  { src: "/assets/1.jpeg", date: "25 Jul 2025" },
+  { src: "/assets/2.jpeg", date: "16 Aug 2025" },
+  { src: "/assets/3.jpeg", date: "13 Sep 2025" },
+  { src: "/assets/4.jpeg", date: "18 Oct 2025" },
+  { src: "/assets/5.jpeg", date: "24 Nov 2025" },
+  { src: "/assets/6.jpeg", date: "23 Dec 2025" },
+  { src: "/assets/7.jpeg", date: "15 Jan 2026" },
+  { src: "/assets/8.jpeg", date: "10 Feb 2026" },
 ]
 
 
